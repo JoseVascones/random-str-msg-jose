@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-jose",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseVascones/random-str-msg-jose.git"
+  },
+  "author": "José Vascones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseVascones/random-str-msg-jose/issues"
+  },
+  "homepage": "https://github.com/JoseVascones/random-str-msg-jose#readme",
+  "bin": {
+    "random-str-msg-jose": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
